@@ -1,6 +1,6 @@
 Name:		texlive-minim-mp
 Version:	62419
-Release:	1
+Release:	2
 Summary:	Low-level mplib integration for LuaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/minim-mp
