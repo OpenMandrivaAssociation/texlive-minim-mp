@@ -1,5 +1,5 @@
 Name:		texlive-minim-mp
-Version:	69352
+Version:	70885
 Release:	1
 Summary:	Low-level mplib integration for LuaTeX
 Group:		Publishing
