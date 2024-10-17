@@ -3,7 +3,7 @@ Version:	70885
 Release:	1
 Summary:	Low-level mplib integration for LuaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/minim-mp
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/minim-mp
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/minim-mp.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/minim-mp.doc.r%{version}.tar.xz
